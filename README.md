@@ -1,2 +1,2 @@
-# swings_OOP
-Simple Java swing applications for OOP Lab
+# Swing Applets
+Simple Java swing applications for Object Oriented Programming Lab
